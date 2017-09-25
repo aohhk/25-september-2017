@@ -1,7 +1,6 @@
-li li {
-   list-style-type: lower-roman;
+dt {
+   font-weight: bold;
 }
-
-li li li {
-   list-style-type: lower-alpha;
+dd {
+   margin-left: 12px;
 }
