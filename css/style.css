@@ -13,3 +13,11 @@ table, td {
 tr:nth-child(odd) {
    background-color: #eee;
 }
+
+td:nth-child(3) {
+   text-align: right;
+}
+
+tfoot > tr > [colspan="2"] {
+   text-align: right;
+}
