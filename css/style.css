@@ -13,3 +13,11 @@ dt {
 dd {
    margin-left: 12px;
 }
+
+table {
+   border-collapse: collapse;
+}
+
+table, td {
+   border: 1px solid red;
+}
